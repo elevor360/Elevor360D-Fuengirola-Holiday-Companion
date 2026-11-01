@@ -1,8 +1,8 @@
-Elevor360D Torremolinos Holiday Companion V1
+Elevor360D Fuengirola Holiday Companion V1
 
-CUSTOMER APP: Upload index.html, guide.json, manifest.webmanifest, sw.js, both icon PNG files, elevor360d-logo.png and the adverts folder to a NEW GitHub Pages repository for Torremolinos.
+CUSTOMER APP: Upload index.html, guide.json, manifest.webmanifest, sw.js, both icon PNG files, elevor360d-logo.png and the adverts folder to a NEW GitHub Pages repository for Fuengirola.
 
-MANAGER: Use your existing Universal Holiday Guide Manager. Import this Torremolinos guide.json, edit it, and export a new guide.json. Upload only the exported guide.json to the Torremolinos repository. The included guide-manager.html also works.
+MANAGER: Use your existing Universal Holiday Guide Manager. Import this Fuengirola guide.json, edit it, and export a new guide.json. Upload only the exported guide.json to the Fuengirola repository. The included guide-manager.html also works.
 
 CLICKABLE ADVERT: Upload a JPG to adverts/advert.jpg. In the manager, tick Enable advert, set image path adverts/advert.jpg, enter an https:// website link, and export guide.json. Upload it to GitHub. Refresh online to see changes.
 

@@ -1,110 +1,110 @@
 {
   "version": "3.0",
-  "destination": "Torremolinos, Costa del Sol",
+  "destination": "Fuengirola, Costa del Sol",
   "updated": "2026-11-01",
-  "intro": "Explore Torremolinos on Spain’s Costa del Sol: sandy beaches, the historic centre, La Carihuela seafood restaurants, family attractions and easy day trips to Málaga and Benalmádena. Plan your holiday and save memories and photos on your device.",
+  "intro": "Discover Fuengirola on Spain’s Costa del Sol: sandy beaches, the seafront promenade, Los Boliches, Sohail Castle, markets and easy day trips to Málaga, Mijas and Benalmádena. Plan your holiday and save memories and photos on your device.",
   "areas": [
     {
-      "name": "Torremolinos Town Centre",
-      "description": "Explore Calle San Miguel, cafés, shops and the historic centre."
+      "name": "Fuengirola Town Centre",
+      "description": "Explore Plaza de la Constitución, shops, cafés and the historic centre."
     },
     {
-      "name": "La Carihuela",
-      "description": "Seafront neighbourhood known for seafood restaurants and its long promenade."
+      "name": "Los Boliches",
+      "description": "Lively coastal neighbourhood with restaurants, shops and its own train station."
     },
     {
-      "name": "Bajondillo",
-      "description": "Popular central beach area below the town centre."
+      "name": "Carvajal",
+      "description": "Eastern coastal area with beaches and restaurants."
     },
     {
-      "name": "Playamar",
-      "description": "Wide beach, beachfront restaurants and leisure areas east of Bajondillo."
+      "name": "Torreblanca",
+      "description": "Residential and beach area with a C1 train stop."
     },
     {
-      "name": "Los Álamos",
-      "description": "Eastern beach district with beach clubs and restaurants."
+      "name": "Los Pacos",
+      "description": "Neighbourhood inland from Los Boliches with local cafés and services."
     },
     {
-      "name": "Montemar",
-      "description": "Residential area close to La Carihuela and the Benalmádena border."
+      "name": "Miramar / Sohail Castle",
+      "description": "Western side of Fuengirola near the castle, river and shopping centre."
     },
     {
-      "name": "El Calvario",
-      "description": "Traditional local neighbourhood with shops and cafés."
+      "name": "Paseo Marítimo Rey de España",
+      "description": "Long beachfront promenade linking several neighbourhoods and beaches."
     }
   ],
   "attractions": [
     {
-      "name": "Casa de los Navajas",
-      "description": "Historic mansion near Bajondillo with distinctive architecture; check visiting hours."
+      "name": "Castillo Sohail",
+      "description": "Historic hilltop castle overlooking the coast; check event access and opening times."
     },
     {
-      "name": "Parque de la Batería",
-      "description": "Park with paths, lake and views; check opening times."
+      "name": "Bioparc Fuengirola",
+      "description": "Zoo with immersive habitats; check tickets and current opening hours."
     },
     {
-      "name": "Molino de Inca Botanical Garden",
-      "description": "Gardens and historic mill site; check seasonal opening."
+      "name": "Plaza de la Constitución",
+      "description": "Central square and meeting point with shops and cafés."
     },
     {
-      "name": "Calle San Miguel",
-      "description": "Central pedestrian shopping street."
+      "name": "Puerto Deportivo",
+      "description": "Marina area with boat trips and seafront restaurants; verify operators."
     },
     {
-      "name": "Crocodile Park",
-      "description": "Family attraction; check current tickets and animal welfare information."
+      "name": "Parque Fluvial",
+      "description": "Riverside park near Sohail Castle with walking routes."
     },
     {
-      "name": "Aqualand Torremolinos",
-      "description": "Seasonal water park; verify opening dates before visiting."
+      "name": "Yacimiento Romano Finca del Secretario",
+      "description": "Roman archaeological site; check visitor access before travelling."
     }
   ],
   "transport": [
     {
       "name": "Málaga Airport",
-      "description": "Málaga–Costa del Sol Airport is the main airport; confirm transport and schedules."
+      "description": "Málaga–Costa del Sol Airport is the nearest major airport; check transport connections."
     },
     {
       "name": "Cercanías C1 train",
-      "description": "Suburban rail connects Torremolinos with Málaga Airport, Málaga city and Fuengirola; check Renfe timetables."
+      "description": "Train links Fuengirola, Los Boliches, Torreblanca and Carvajal with Málaga Airport and Málaga city; check Renfe timetables."
     },
     {
       "name": "Local buses",
-      "description": "Check current bus routes for Torremolinos, Benalmádena and Málaga."
+      "description": "Check current routes for Mijas, nearby neighbourhoods and surrounding towns."
     },
     {
       "name": "Walking",
-      "description": "Seafront is mostly level, but the town centre is uphill from some beaches."
+      "description": "The seafront promenade is generally level; some inland streets are steeper."
     },
     {
       "name": "Taxis",
-      "description": "Use licensed taxis and confirm fares and pickup locations."
+      "description": "Use licensed taxis and confirm pickup points and fares."
     },
     {
       "name": "Car hire",
-      "description": "Useful for regional trips; parking may be difficult near beaches in peak season."
+      "description": "Useful for inland villages and longer day trips; parking may be limited in summer."
     }
   ],
   "useful": [
     {
       "name": "Emergency services",
-      "description": "Call 112 for emergencies in Spain."
+      "description": "Dial 112 for emergencies in Spain."
     },
     {
       "name": "Currency",
-      "description": "Euro (€); check your bank’s foreign transaction charges."
+      "description": "Euro (€); check bank and card charges."
     },
     {
       "name": "Travel documents",
-      "description": "Check UK government advice for Spain, passport validity and travel insurance."
+      "description": "Check current UK government Spain travel advice and passport requirements."
     },
     {
       "name": "Language",
-      "description": "Spanish is the official language; English is commonly spoken in tourist areas."
+      "description": "Spanish is the official language; English is widely spoken in tourist areas."
     },
     {
       "name": "Beach safety",
-      "description": "Follow lifeguard flags, currents and weather warnings."
+      "description": "Follow beach flags, lifeguard advice and weather warnings."
     },
     {
       "name": "Time zone",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Sun protection",
-      "description": "Carry water, sunscreen and a hat, particularly in summer."
+      "description": "Carry drinking water, sunscreen and a hat, especially in summer."
     }
   ],
   "links": [
@@ -121,8 +121,8 @@
       "url": "https://www.gov.uk/foreign-travel-advice/spain"
     },
     {
-      "name": "Torremolinos tourism",
-      "url": "https://turismotorremolinos.es/"
+      "name": "Fuengirola municipal website",
+      "url": "https://www.fuengirola.es/"
     },
     {
       "name": "Málaga Airport (Aena)",
@@ -141,168 +141,168 @@
     "enabled": false,
     "image": "adverts/advert.jpg",
     "link": "",
-    "alt": "Torremolinos local business advertisement"
+    "alt": "Fuengirola local business advertisement"
   },
   "beaches": [
     {
-      "name": "Playa de La Carihuela",
-      "description": "Popular beach and promenade with restaurants."
+      "name": "Playa de Los Boliches",
+      "description": "Popular sandy beach with promenade, cafés and beach facilities."
     },
     {
-      "name": "Playa del Bajondillo",
-      "description": "Central beach below Torremolinos town centre."
+      "name": "Playa de Fuengirola",
+      "description": "Central urban beach close to shops and restaurants."
     },
     {
-      "name": "Playa de Playamar",
-      "description": "Long sandy beach with facilities and chiringuitos."
+      "name": "Playa de Carvajal",
+      "description": "Eastern beach area near the Carvajal train stop."
     },
     {
-      "name": "Playa de Los Álamos",
-      "description": "Eastern beach popular for a lively atmosphere."
+      "name": "Playa de Torreblanca",
+      "description": "Sandy beach with nearby restaurants and access to the promenade."
     },
     {
-      "name": "Playa de Montemar",
-      "description": "Beach area near La Carihuela; check local access."
+      "name": "Playa del Castillo",
+      "description": "Beach near Sohail Castle at the western end of town."
     }
   ],
   "markets": [
     {
-      "name": "Calle San Miguel",
-      "description": "Pedestrian shopping street in the centre."
+      "name": "Fuengirola street market",
+      "description": "Popular weekly outdoor market; check current location and operating day."
     },
     {
-      "name": "Torremolinos local markets",
-      "description": "Check the council’s current market locations and days."
+      "name": "Los Boliches shops",
+      "description": "Independent shops and local services around the neighbourhood."
     },
     {
-      "name": "Plaza Costa del Sol",
-      "description": "Central square with shops and cafés."
+      "name": "Miramar shopping centre",
+      "description": "Shopping centre near Sohail Castle; check opening hours."
     },
     {
-      "name": "Plaza Mayor shopping centre",
-      "description": "Shopping and entertainment complex near Málaga Airport; check transport."
+      "name": "Town centre shopping",
+      "description": "Shops around Plaza de la Constitución and surrounding streets."
     }
   ],
   "nightlife": [
     {
-      "name": "La Nogalera",
-      "description": "Central district with bars and nightlife."
-    },
-    {
-      "name": "La Carihuela promenade",
-      "description": "Restaurants and evening seaside walks."
-    },
-    {
-      "name": "Los Álamos beachfront",
-      "description": "Beach bars and seasonal evening venues."
+      "name": "Fuengirola promenade",
+      "description": "Seafront restaurants, cafés and evening walks."
     },
     {
       "name": "Town centre",
-      "description": "Tapas bars and cafés around central streets."
+      "description": "Tapas bars and varied evening venues."
+    },
+    {
+      "name": "Los Boliches",
+      "description": "Neighbourhood bars, restaurants and cafés."
+    },
+    {
+      "name": "Marina area",
+      "description": "Evening restaurants and coastal atmosphere; check seasonal venues."
     }
   ],
   "family": [
     {
-      "name": "Aqualand Torremolinos",
-      "description": "Seasonal water park; check opening dates."
+      "name": "Bioparc Fuengirola",
+      "description": "Family zoo visit; check tickets and opening times."
     },
     {
-      "name": "Parque de la Batería",
-      "description": "Open-air family walk and play areas."
-    },
-    {
-      "name": "Molino de Inca Botanical Garden",
-      "description": "Relaxed gardens and historic mill."
+      "name": "Sohail Castle area",
+      "description": "Walks, views and open spaces around the castle."
     },
     {
       "name": "Beach day",
       "description": "Choose a lifeguarded beach and check flags."
     },
     {
+      "name": "Parque Fluvial",
+      "description": "Riverside walking and recreation area."
+    },
+    {
       "name": "Family photo trail",
-      "description": "Save favourite places in your Photo Album."
+      "description": "Save favourite moments in the Photo Album."
     }
   ],
   "dining": [
     {
-      "name": "La Carihuela",
-      "description": "Seafood and traditional fried-fish restaurants."
+      "name": "Los Boliches",
+      "description": "Seafood, tapas and international restaurants."
     },
     {
-      "name": "Torremolinos centre",
-      "description": "Tapas, cafés and varied international options."
+      "name": "Fuengirola town centre",
+      "description": "Tapas bars, cafés and varied dining."
     },
     {
-      "name": "Bajondillo promenade",
-      "description": "Beachfront restaurants and snacks."
+      "name": "Seafront promenade",
+      "description": "Beachfront chiringuitos and restaurants."
     },
     {
-      "name": "Playamar",
-      "description": "Chiringuitos and relaxed seaside dining."
+      "name": "Marina area",
+      "description": "Restaurants and cafés close to the harbour."
     },
     {
-      "name": "Montemar",
-      "description": "Neighbourhood restaurants and cafés."
+      "name": "Carvajal",
+      "description": "Beachside cafés and restaurants in the eastern district."
     }
   ],
   "daytrips": [
     {
+      "name": "Mijas Pueblo",
+      "description": "Whitewashed hill village with views; check bus connections."
+    },
+    {
       "name": "Málaga city",
-      "description": "Museums, historic centre, harbour and Alcazaba; accessible by train."
+      "description": "Museums, harbour, Alcazaba and historic centre; accessible by C1 train."
     },
     {
       "name": "Benalmádena",
-      "description": "Puerto Marina, parks and nearby attractions."
+      "description": "Marina, parks and nearby attractions."
     },
     {
-      "name": "Mijas Pueblo",
-      "description": "Whitewashed hill village; check bus connections."
+      "name": "Torremolinos",
+      "description": "Beaches, La Carihuela and town centre, reachable by train."
     },
     {
-      "name": "Fuengirola",
-      "description": "Beaches, shops and seafront; reachable by C1 train."
-    },
-    {
-      "name": "Nerja",
-      "description": "Coastal town and viewpoints; check travel options."
+      "name": "Marbella",
+      "description": "Old town and seaside promenade; check bus routes."
     },
     {
       "name": "Ronda",
-      "description": "Historic town with dramatic gorge; plan a longer day trip."
+      "description": "Historic gorge town; plan a longer day trip."
     }
   ],
   "mapPlaces": [
     {
-      "name": "Torremolinos Town Centre",
-      "description": "Calle San Miguel, Torremolinos, Spain"
+      "name": "Fuengirola Town Centre",
+      "description": "Plaza de la Constitución, Fuengirola, Spain"
     },
     {
-      "name": "La Carihuela",
-      "description": "La Carihuela, Torremolinos, Spain"
+      "name": "Los Boliches",
+      "description": "Los Boliches, Fuengirola, Spain"
     },
     {
-      "name": "Playa del Bajondillo",
-      "description": "Playa del Bajondillo, Torremolinos, Spain"
+      "name": "Castillo Sohail",
+      "description": "Castillo Sohail, Fuengirola, Spain"
     },
     {
-      "name": "Playa de Playamar",
-      "description": "Playa de Playamar, Torremolinos, Spain"
+      "name": "Bioparc Fuengirola",
+      "description": "Bioparc Fuengirola, Spain"
     },
     {
-      "name": "Playa de Los Álamos",
-      "description": "Playa de Los Álamos, Torremolinos, Spain"
+      "name": "Playa de Carvajal",
+      "description": "Playa de Carvajal, Fuengirola, Spain"
     },
     {
-      "name": "Parque de la Batería",
-      "description": "Parque de la Batería, Torremolinos, Spain"
+      "name": "Playa de Torreblanca",
+      "description": "Playa de Torreblanca, Fuengirola, Spain"
     },
     {
-      "name": "Casa de los Navajas",
-      "description": "Casa de los Navajas, Torremolinos, Spain"
+      "name": "Puerto Deportivo",
+      "description": "Puerto Deportivo de Fuengirola, Spain"
     },
     {
-      "name": "Molino de Inca",
-      "description": "Jardín Botánico Molino de Inca, Torremolinos, Spain"
+      "name": "Parque Fluvial",
+      "description": "Parque Fluvial, Fuengirola, Spain"
     }
   ]
 }
