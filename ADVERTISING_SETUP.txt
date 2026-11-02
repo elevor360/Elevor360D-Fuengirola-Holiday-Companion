@@ -1,0 +1,5 @@
+Elevor360D Universal Advertising Manager V1 compatibility
+
+Export adverts from Manager V1. Upload adverts.json into advertising/ and images into advertising/images/.
+The app reads advertising/adverts.json. Keep image paths relative to that JSON file.
+This app ID: fuengirola-companion; group: holiday.
